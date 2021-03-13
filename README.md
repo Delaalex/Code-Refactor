@@ -1,5 +1,8 @@
 # Code-Refactor
 
+
+file:///C:/Users/delga/OneDrive/Desktop/Horiseon-Website/index.html
+
 ## Brief Description
   Going through the coding and trying to refactor the website. I came to the realization there were to many "Div Classes" being used.
   So what I ended up doing is shortening the amount of "Divs" being used. Then tried to the best of my ability to replace them with semantic HTML tags.
