@@ -8,4 +8,5 @@
 ## HTML
   For the First screenshot you will see that I gave the website a proper title. Along with fixing a link that was missing and getting rid
   of some "Div Classes". 
-  ![](
+  
+  ![](Screenshots/Screenshot3.png)
