@@ -1,5 +1,9 @@
 # Code-Refactor
 
+![Screenshot1](https://user-images.githubusercontent.com/79616150/111052254-4cede600-840e-11eb-97ea-a2deec7d7cff.png)
+![Screenshot2](https://user-images.githubusercontent.com/79616150/111052255-4eb7a980-840e-11eb-97d4-3923fcccbc9c.png)
+
+
 ## Brief Description
   Going through the coding and trying to refactor the website. I came to the realization there were to many "Div Classes" being used.
   So what I ended up doing is shortening the amount of "Divs" being used. Then tried to the best of my ability to replace them with semantic HTML tags.
