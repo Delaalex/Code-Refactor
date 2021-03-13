@@ -16,3 +16,12 @@ to put them under one section on the CSS.
 
 ![Screenshot 4](https://user-images.githubusercontent.com/79616150/111051921-96890180-840b-11eb-916e-db1d222b56f3.png)
 
+## CSS
+
+For the Following screenshots I bascially tweaked around the CSS page to comply with HTML changes I made. I first started by removing
+"Div" selectors that were orginally used in the original HTML. Second I went ahead and condensed a few sections to make them into one category.
+With finally some changing some headers overall.
+
+![Screenshot 5](https://user-images.githubusercontent.com/79616150/111052013-32b30880-840c-11eb-8a71-de26cd090421.png)
+![Screenshot 6](https://user-images.githubusercontent.com/79616150/111052014-33e43580-840c-11eb-906e-a0624339b020.png)
+![Screenshot7](https://user-images.githubusercontent.com/79616150/111052018-35adf900-840c-11eb-9a16-9d0fd21a04db.png)
