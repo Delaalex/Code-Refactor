@@ -6,3 +6,6 @@
   While at the same time changing these tags in the CSS. So they would comply with eachother. Also made a couple fixes That werent working on the website.
 
 ## HTML
+  For the First screenshot you will see that I gave the website a proper title. Along with fixing a link that was missing and getting rid
+  of some "Div Classes". 
+  ![](
